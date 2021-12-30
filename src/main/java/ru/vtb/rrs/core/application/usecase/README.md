@@ -1,0 +1,1 @@
+This directory is intended for storing application use cases
